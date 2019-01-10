@@ -19,5 +19,5 @@ Something more
 
 http://rumba.name
 
-[RUMBA](htp://rumba.name)
+[RUMBA](http://rumba.name)
 
